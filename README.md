@@ -1,20 +1,22 @@
-<h1>Hi There, I'm Suhas <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I'm a Electronics & Telecommunication Engineering Student. Who is learning about **Web Development**.
+# Hi, I'm Suhas! 👋
 
-<br>
 
-## Skill Set :muscle:
+## 🚀 About Me
+I'm a Engineering Student And I am on the way to be Full Stack Web Developer.
 
-These are some of the major technologies that I am Using and Learning:
 
-**Programming Languages**
+## What I am doing currently?
+👩‍💻 I'm currently working on mini DBMS Project. Its for college subject. I am Using Python's Tkinter library for making GUI and MySQL as database. 
 
-| <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" /> | <img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">
 
-<br>
+## 🛠 Skills
+HTML, CSS, Javascript, Node.js, MySQL, Python.
 
-## Let's Connect :handshake:
 
-<a href="https://twitter.com/suhaasya/"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/twitter-512.png" width="40"></a>
-<a href="https://www.linkedin.com/in/khobragadesuhas/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="40"></a>
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khobragadesuhas)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/suhaasya/)
+
+
