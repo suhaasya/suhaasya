@@ -6,7 +6,7 @@
 I'm a Engineering Student And I am on the way to be Full Stack Web Developer.
 
 
-## What I am doing currently?
+## What I am currently doing?
 👩‍💻 I'm currently working on mini DBMS Project. Its for college subject. I am Using Python's Tkinter library for making GUI and MySQL as database. 
 
 
