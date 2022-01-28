@@ -1,11 +1,8 @@
 # Hello, I am Suhas 👋
 
+A front-end web developer & Technology enthusiast from Pune, India. 
 
-I'm Electronics and Telecommunications Engineering Student from India. Passionate about technologies. I love to help and learn with dev community. Open to all DMs on [Twitter](https://twitter.com/Suhaasya)
-
-- 🔭 I’m currently working on my College DBMS mini project.
-- 🌱 I’m currently learning Tkinter, React and Backend.
-- 👯 I’m looking to collaborate on Full stack web development
+- 🌱 I’m currently learning React and API's.
 - 📫 How to reach me: [suhaskhobragade19@gmail.com](mailto:suhaskhobragade19@gmail.com) & [Twitter@Suhaasya](https://twitter.com/Suhaasya)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I used to love math before learning integration.
